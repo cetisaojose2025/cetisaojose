@@ -8,16 +8,22 @@
 
 header {
     background-color: lightgray;
-    height: 28vh;
+    height: 26vh;
 }
 
 header img {
-    height: 25vh;
+    height: 20vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
+main {
+    background-color: white;
+    padding: 20px;
+}
+main h2{
+    color: rgb(107, 241, 107);
+}
 .container {
     position: relative;
     width: 70vw;
@@ -28,6 +34,7 @@ header img {
 .banner {
     width: 100%;
     margin: 15;
+    margin-left: 50px;
     padding: 10px;
 }
 
@@ -38,6 +45,7 @@ header img {
     right: 20px;
     color: white;
     margin: 15px;
+     margin-left: 50px;
     padding: 10px;
 }
 
@@ -46,7 +54,7 @@ header img {
     background: green;
     padding: 6px 12px;
     border-radius: 4px;
-    font-size: 0.8em;
+    font-size: 0.6em;
 }
 
 
@@ -61,7 +69,3 @@ header img {
     opacity: 0.9;
 }
 
-main {
-    background-color: white;
-    padding: 20px;
-}
