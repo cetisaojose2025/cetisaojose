@@ -28,7 +28,7 @@ header img {
 .banner {
     width: 100%;
     margin: 15;
-    
+    padding: 10px;
 }
 
 .text-box {
@@ -38,6 +38,7 @@ header img {
     right: 20px;
     color: white;
     margin: 15px;
+    padding: 10px;
 }
 
 
